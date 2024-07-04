@@ -10,7 +10,6 @@ import java.util.concurrent.*;
 
 public class CrptApi {
 
-
     private final ScheduledExecutorService scheduler;
     private final Semaphore semaphore;
     private final ObjectMapper objectMapper;
